@@ -4,15 +4,13 @@
 ⚡ Digging into binaries, systems, and low-level internals  
  Sharing the process, the tools, and the lessons learned  
 
-_____________________________________________________________________________________________________________________________________________________________________________
 
 ##  What I Do  
   Reverse engineer binaries & keep detailed notes  
   Analyze malware behavior (educational & lab-safe)  
   Study CPU design & architecture fundamentals  
- ⚙ Write small scripts to speed up RE workflows  
+  Write small scripts to speed up RE workflows  
 
-_____________________________________________________________________________________________________________________________________________________________________________
 
 ## ⚔ Arsenal (so far)  
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)  
@@ -22,15 +20,12 @@ ________________________________________________________________________________
 ![Ghidra](https://img.shields.io/badge/-Ghidra-FCC624?logo=data:image/svg+xml;base64,...)  
 ![Radare2](https://img.shields.io/badge/-Radare2-9400D3?logo=radar&logoColor=white)  
 
-_____________________________________________________________________________________________________________________________________________________________________________
-
 ##  Currently Learning  
 -  Binary exploitation basics (stack/heap/ROP)  
 -  PE & ELF internals (headers, sections, loaders)  
 -  Malware unpacking & deobfuscation (safe labs only)  
 -  Advanced tooling (pwntools, angr, symbolic execution)  
 
-_____________________________________________________________________________________________________________________________________________________________________________
 
 ##  Projects (incoming)  
 **RE-Notes** → Reverse engineering notes + architecture concepts  
@@ -38,7 +33,6 @@ ________________________________________________________________________________
  **Malware-Lab** → Documented analysis of safe samples  
  **RE-Tools** → Scripts & helpers for automation  
 
-_____________________________________________________________________________________________________________________________________________________________________________
 
 ## 📊 GitHub Stats  
 ![GitHub Streak](https://streak-stats.demolab.com?user=NadhiraBaadi&theme=radical&hide_border=true)  
