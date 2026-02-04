@@ -1,15 +1,13 @@
 ## 👾I'm NadhiraBaadi  
 
- Reverse Engineering | Malware Analysis | Computer Architecture  
-⚡ Digging into binaries, systems, and low-level internals  
+ Reverse Engineering     
  Sharing the process, the tools, and the lessons learned  
 
 
 ###  What I Do  
   Reverse engineer binaries & keep detailed notes  
-  Analyze malware behavior (educational & lab-safe)  
-  Study CPU design & architecture fundamentals  
-  Write small scripts to speed up RE workflows  
+  Analyze malware behavior (educational & lab-safe)   
+  
 
 
 ### Arsenal (so far)  
